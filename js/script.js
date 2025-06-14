@@ -1,7 +1,7 @@
-const RADIO_NAME = 'Jailson Web Rádio';
+const RADIO_NAME = 'Los Santos FM';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
-const URL_STREAMING = 'https://stream.zeno.fm/yn65fsaurfhvv';
+const URL_STREAMING = 'https://1337.la:8000/stream';
 
 //API URL /
 const API_URL = 'https://free.miradio.pro/icy?url='+URL_STREAMING;
